@@ -1,0 +1,2848 @@
+Exporter version: 2.93.1, Blender version: 2.93.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Caroline Jacomini\Documents\KOSMOS\CENA_VEGETAIS\to_babylon\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  obj_cube
+		processing begun of material:  m_hdri
+			processing texture t_cube_hdri
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_cube_hdri
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  obj_railing_1
+		processing begun of material:  m_bamboo
+		processing begun of material:  m_rope
+			processing texture t_bamboo_n
+				texture type:  bumpTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  diffuseTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  specularTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  value not meaningful 2, mapped using: "uv"
+			processing texture Color_A02
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'C:\\Users\\Caroline Jacomini\\Documents\\KOSMOS\\CENA_VEGETAIS\\textures\\Color_A02.jpg'
+				texture type:  diffuseTexture, mapped using: "uv"
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  568
+		num normals        :  568
+		num tangents       :  2272
+		num uvs            :  1136
+		num uvs2           :  1136
+		num colors         :  0
+		num triangles      :  320
+	processing begun of mesh:  obj_railing_2
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_3
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_4
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_5
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_6
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_7
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_8
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_9
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_10
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_11
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_12
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_13
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_14
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_15
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_16
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_17
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_18
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_19
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_20
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_21
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_22
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_23
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_24
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_25
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_26
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_27
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_28
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_29
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_30
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_31
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_32
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_33
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_34
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_35
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_36
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_37
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_38
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_39
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_40
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_41
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_42
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_43
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_44
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_45
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_railing_46
+		mesh is an instance of :  obj_railing_1.  Processing halted.
+	processing begun of mesh:  obj_baseexpo
+		processing begun of material:  m_metal_b
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  116
+		num normals        :  116
+		num tangents       :  0
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  obj_totem_1
+		processing begun of material:  m_metal_b
+		registered as also a user of material:  m_metal_b
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26
+	processing begun of mesh:  obj_totem_2
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_3
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_4
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_1
+		processing begun of material:  m_umbrella_b
+			processing texture t_umbrella
+				texture type:  diffuseTexture, mapped using: "UVMapbake"
+		num positions      :  856
+		num normals        :  856
+		num tangents       :  0
+		num uvs            :  1712
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1062
+	processing begun of mesh:  obj_umbrella_base_1
+		processing begun of material:  m_metal
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  78
+		num normals        :  78
+		num tangents       :  0
+		num uvs            :  156
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  obj_table_1
+		processing begun of material:  m_table
+			processing texture t_table_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_table
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  859
+		num normals        :  859
+		num tangents       :  0
+		num uvs            :  1718
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  412
+	processing begun of mesh:  obj_chair_m_1
+		processing begun of material:  m_wood
+		processing begun of material:  m_muxarabi
+			processing texture t_wood
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_muxarabi
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#1
+		num positions      :  1377
+		num normals        :  1377
+		num tangents       :  0
+		num uvs            :  2754
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  588
+	processing begun of mesh:  obj_chair_m_2
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_3
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_4
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_2
+		mesh is an instance of :  obj_umbrella_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_base_2
+		mesh is an instance of :  obj_umbrella_base_1.  Processing halted.
+	processing begun of mesh:  obj_table_2
+		mesh is an instance of :  obj_table_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_5
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_6
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_7
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_8
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_3
+		mesh is an instance of :  obj_umbrella_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_base_3
+		mesh is an instance of :  obj_umbrella_base_1.  Processing halted.
+	processing begun of mesh:  obj_table_3
+		mesh is an instance of :  obj_table_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_9
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_10
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_11
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_12
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_4
+		mesh is an instance of :  obj_umbrella_1.  Processing halted.
+	processing begun of mesh:  obj_umbrella_base_4
+		mesh is an instance of :  obj_umbrella_base_1.  Processing halted.
+	processing begun of mesh:  obj_table_4
+		mesh is an instance of :  obj_table_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_13
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_14
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_15
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chair_m_16
+		mesh is an instance of :  obj_chair_m_1.  Processing halted.
+	processing begun of mesh:  obj_chaise_1
+		processing begun of material:  m_trancado
+			processing texture t_trancado
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  290
+		num normals        :  290
+		num tangents       :  0
+		num uvs            :  580
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of mesh:  obj_mattress_1
+		processing begun of material:  m_fabric
+			processing texture t_chaise_f
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  0
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  22
+	processing begun of mesh:  obj_cushion_1
+		processing begun of material:  m_cushionred_b
+			processing texture t_cushionorange_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_cushionred_b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  507
+		num normals        :  507
+		num tangents       :  0
+		num uvs            :  1014
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  342
+	processing begun of mesh:  obj_cushion_2
+		processing begun of material:  m_cushionwhite_b
+			processing texture t_cushionorange_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_cushionwhite_b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  507
+		num normals        :  507
+		num tangents       :  0
+		num uvs            :  1014
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  342
+	processing begun of mesh:  obj_chaise_2
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_2
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_5
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_6
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_3
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_3
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_7
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_8
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_4
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_4
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_9
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_10
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_5
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_5
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_11
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_12
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_6
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_6
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_13
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_14
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_7
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_7
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_15
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_16
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_8
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_8
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_17
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_18
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_9
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_9
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_19
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_20
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_chaise_10
+		mesh is an instance of :  obj_chaise_1.  Processing halted.
+	processing begun of mesh:  obj_mattress_10
+		mesh is an instance of :  obj_mattress_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_21
+		mesh is an instance of :  obj_cushion_1.  Processing halted.
+	processing begun of mesh:  obj_cushion_22
+		mesh is an instance of :  obj_cushion_2.  Processing halted.
+	processing begun of mesh:  obj_bar
+		processing begun of material:  m_floorwood
+		processing begun of material:  m_metal
+			processing texture t_woodfloor_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_woodfloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#2
+		num positions      :  77
+		num normals        :  77
+		num tangents       :  0
+		num uvs            :  154
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  38
+	processing begun of mesh:  obj_cup_1
+		processing begun of material:  m_ceramic
+		num positions      :  210
+		num normals        :  210
+		num tangents       :  0
+		num uvs            :  420
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  410
+	processing begun of mesh:  obj_cup_2
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_cup_3
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_cup_4
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_cup_5
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_star_1
+		processing begun of material:  m_brown
+		processing begun of material:  m_plastico
+		processing begun of material:  m_ceramic
+		registered as also a user of material:  m_ceramic
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#3
+		num positions      :  354
+		num normals        :  354
+		num tangents       :  0
+		num uvs            :  708
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  616
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  obj_star_2
+		mesh is an instance of :  obj_star_1.  Processing halted.
+	processing begun of mesh:  obj_supportbar
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		num positions      :  2852
+		num normals        :  2852
+		num tangents       :  0
+		num uvs            :  5704
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1264
+		WARNING: # of 0 area faces found:  120
+	processing begun of mesh:  obj_lamp_1
+		processing begun of material:  m_muxarabi
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_muxarabi
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#4
+		num positions      :  370
+		num normals        :  370
+		num tangents       :  0
+		num uvs            :  740
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  162
+	processing begun of mesh:  obj_lamp_2
+		mesh is an instance of :  obj_lamp_1.  Processing halted.
+	processing begun of mesh:  obj_lamp_3
+		mesh is an instance of :  obj_lamp_1.  Processing halted.
+	processing begun of mesh:  obj_lamp_4
+		mesh is an instance of :  obj_lamp_1.  Processing halted.
+	processing begun of mesh:  obj_lamp_5
+		mesh is an instance of :  obj_lamp_1.  Processing halted.
+	processing begun of mesh:  obj_star_3
+		mesh is an instance of :  obj_star_1.  Processing halted.
+	processing begun of mesh:  obj_star_4
+		mesh is an instance of :  obj_star_1.  Processing halted.
+	processing begun of mesh:  obj_cup_6
+		mesh is an instance of :  obj_cup_1.  Processing halted.
+	processing begun of mesh:  obj_tree
+		processing begun of material:  m_branch
+			processing texture t_branch_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_branch
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_branch_r
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  1899
+		num normals        :  1899
+		num tangents       :  0
+		num uvs            :  3798
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1116
+	processing begun of mesh:  obj_leaf_1
+		processing begun of material:  m_leaves_caju
+			processing texture t_leaves_caju_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_leaves_caju
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_leaf_2
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_3
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_4
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_5
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_6
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_7
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_8
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_9
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_10
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_11
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_12
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_13
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_14
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_15
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_16
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_17
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_18
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_19
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_20
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_21
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_22
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_23
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_24
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_25
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_26
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_27
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_28
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_29
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_30
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_31
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_32
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_33
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_34
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_35
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_36
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_37
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_38
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_39
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_40
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_41
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_42
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_43
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_44
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_45
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_46
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_47
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_48
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_49
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_50
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_51
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_52
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_53
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_54
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_55
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_56
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_57
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_58
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_59
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_60
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_61
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_62
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_63
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_64
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_65
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_66
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_67
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_68
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_69
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_70
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_71
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_72
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_73
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_74
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_75
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_76
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_77
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_78
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_79
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_80
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_81
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_82
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_83
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_84
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_85
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_86
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_87
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_88
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_89
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_90
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_91
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_92
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_93
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_94
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_95
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_96
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_97
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_98
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_99
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_100
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_101
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_102
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_103
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_104
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_105
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_106
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_107
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_108
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_109
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_110
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_111
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_112
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_113
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_114
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_115
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_116
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_117
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_118
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_119
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_120
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_121
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_122
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_123
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_124
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_125
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_126
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_127
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_128
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_129
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_130
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_131
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_132
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_133
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_134
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_135
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_136
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_137
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_138
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_139
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_140
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_141
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_142
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_143
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_144
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_145
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_146
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_147
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_148
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_149
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_150
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_151
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_152
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_153
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_154
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_155
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_156
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_157
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_158
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_159
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_160
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_161
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_162
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_163
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_164
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_165
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_166
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_167
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_168
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_169
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_170
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_171
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_172
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_173
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_174
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_175
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_176
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_177
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_178
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_179
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_180
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_181
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_182
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_183
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_184
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_185
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_186
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_187
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_188
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_189
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_190
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_191
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_192
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_193
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_194
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_195
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_196
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_197
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_198
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_199
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_200
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_201
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_202
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_203
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_204
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_205
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_206
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_207
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_208
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_209
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_210
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_211
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_212
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_213
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_214
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_215
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_216
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_217
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_218
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_219
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_220
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_221
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_222
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_223
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_224
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_225
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_226
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_227
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_228
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_229
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_230
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_231
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_232
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_233
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_234
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_235
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_236
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_237
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_238
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_239
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_240
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_241
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_242
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_243
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_244
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_245
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_246
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_247
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_248
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_249
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_250
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_251
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_252
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_253
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_254
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_255
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_256
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_257
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_258
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_259
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_260
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_261
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_262
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_263
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_264
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_265
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_266
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_267
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_268
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_269
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_270
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_271
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_272
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_273
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_274
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_275
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_276
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_277
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_278
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_279
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_280
+		mesh is an instance of :  obj_leaf_1.  Processing halted.
+	processing begun of mesh:  obj_cashew_1
+		processing begun of material:  m_caju
+			processing texture t_caju_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_caju
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  388
+		num normals        :  388
+		num tangents       :  0
+		num uvs            :  776
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  572
+	processing begun of mesh:  obj_cashew_2
+		mesh is an instance of :  obj_cashew_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_1
+		processing begun of material:  m_leaf_carnauba
+			processing texture t_palm_leaf
+				texture type:  diffuseTexture, mapped using: "UvMap"
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  obj_leaf_c_2
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  117
+		num normals        :  117
+		num tangents       :  0
+		num uvs            :  234
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  83
+	processing begun of mesh:  obj_leaf_c_4
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  142
+		num normals        :  142
+		num tangents       :  0
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  obj_leaf_c_5
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  127
+		num normals        :  127
+		num tangents       :  0
+		num uvs            :  254
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  93
+	processing begun of mesh:  obj_leaf_c_6
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  137
+		num normals        :  137
+		num tangents       :  0
+		num uvs            :  274
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  89
+	processing begun of mesh:  obj_leaf_c_7
+		mesh is an instance of :  obj_leaf_c_2.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_8
+		mesh is an instance of :  obj_leaf_c_2.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_9
+		mesh is an instance of :  obj_leaf_c_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_11
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  134
+		num normals        :  134
+		num tangents       :  0
+		num uvs            :  268
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  obj_leaf_c_12
+		mesh is an instance of :  obj_leaf_c_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_16
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  139
+		num normals        :  139
+		num tangents       :  0
+		num uvs            :  278
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  91
+	processing begun of mesh:  obj_leaf_c_18
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  132
+		num normals        :  132
+		num tangents       :  0
+		num uvs            :  264
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  92
+	processing begun of mesh:  obj_leaf_c_19
+		mesh is an instance of :  obj_leaf_c_18.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_20
+		mesh is an instance of :  obj_leaf_c_2.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_22
+		mesh is an instance of :  obj_leaf_c_4.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_23
+		mesh is an instance of :  obj_leaf_c_5.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_24
+		mesh is an instance of :  obj_leaf_c_6.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_25
+		mesh is an instance of :  obj_leaf_c_2.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_26
+		mesh is an instance of :  obj_leaf_c_2.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_27
+		mesh is an instance of :  obj_leaf_c_1.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_29
+		mesh is an instance of :  obj_leaf_c_11.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_33
+		mesh is an instance of :  obj_leaf_c_16.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_35
+		mesh is an instance of :  obj_leaf_c_18.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_36
+		mesh is an instance of :  obj_leaf_c_18.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_03
+		processing begun of material:  m_leaf_carnauba
+		registered as also a user of material:  m_leaf_carnauba
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  80
+	processing begun of mesh:  obj_leaf_c_10
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_13
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_14
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_15
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_17
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_21
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_28
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_30
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_31
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_32
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_34
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_37
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_leaf_c_38
+		mesh is an instance of :  obj_leaf_c_03.  Processing halted.
+	processing begun of mesh:  obj_trunk_1
+		processing begun of material:  m_branch_palm
+			processing texture t_palm
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  524
+		num normals        :  524
+		num tangents       :  0
+		num uvs            :  1048
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  392
+	processing begun of mesh:  obj_trunk_2
+		mesh is an instance of :  obj_trunk_1.  Processing halted.
+	processing begun of mesh:  obj_chair_1
+		processing begun of material:  m_wood
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_wood
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#5
+		num positions      :  250
+		num normals        :  250
+		num tangents       :  0
+		num uvs            :  500
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+	processing begun of mesh:  obj_chair_10
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_100
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_101
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_102
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_103
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_104
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_105
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_106
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_107
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_108
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_109
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_11
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_110
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_111
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_112
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_113
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_114
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_115
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_116
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_117
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_118
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_119
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_12
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_120
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_121
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_122
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_123
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_124
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_125
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_126
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_127
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_128
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_129
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_13
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_130
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_131
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_132
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_133
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_134
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_135
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_136
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_137
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_138
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_139
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_14
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_140
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_141
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_142
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_143
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_144
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_145
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_146
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_147
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_148
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_149
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_15
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_150
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_151
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_152
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_153
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_154
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_155
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_156
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_157
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_158
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_159
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_16
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_160
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_161
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_162
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_163
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_164
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_165
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_166
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_167
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_168
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_169
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_17
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_170
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_171
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_172
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_173
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_174
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_175
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_176
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_177
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_178
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_179
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_18
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_180
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_181
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_182
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_183
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_184
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_185
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_186
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_187
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_188
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_189
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_19
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_190
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_191
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_192
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_193
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_194
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_195
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_196
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_197
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_198
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_199
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_2
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_20
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_200
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_201
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_202
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_203
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_204
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_205
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_206
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_207
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_208
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_209
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_21
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_210
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_211
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_212
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_213
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_214
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_215
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_216
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_217
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_218
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_219
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_22
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_23
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_24
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_25
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_26
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_27
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_28
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_29
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_3
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_30
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_300
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_31
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_32
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_33
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_34
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_35
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_36
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_37
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_38
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_39
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_4
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_40
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_41
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_42
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_43
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_44
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_45
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_46
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_47
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_48
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_49
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_5
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_50
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_51
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_52
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_53
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_54
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_55
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_56
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_57
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_58
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_59
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_6
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_60
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_61
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_62
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_63
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_64
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_65
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_66
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_67
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_68
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_69
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_7
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_70
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_71
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_72
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_73
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_74
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_75
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_76
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_77
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_78
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_79
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_8
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_80
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_81
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_82
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_83
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_84
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_85
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_86
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_87
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_88
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_89
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_9
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_90
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_91
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_92
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_93
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_94
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_95
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_96
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_97
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_98
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_99
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_stage
+		processing begun of material:  m_stage
+			processing texture t_stage
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  obj_spotlight_1
+		processing begun of material:  m_plastico
+		registered as also a user of material:  m_plastico
+		num positions      :  765
+		num normals        :  765
+		num tangents       :  0
+		num uvs            :  1530
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  418
+	processing begun of mesh:  obj_spotlight_2
+		mesh is an instance of :  obj_spotlight_1.  Processing halted.
+	processing begun of mesh:  obj_spotlight_3
+		mesh is an instance of :  obj_spotlight_1.  Processing halted.
+	processing begun of mesh:  obj_spotlight_4
+		processing begun of material:  m_plastico.002
+		num positions      :  765
+		num normals        :  765
+		num tangents       :  0
+		num uvs            :  1530
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  418
+	processing begun of mesh:  obj_cobogo_1
+		processing begun of material:  m_cobogo
+		num positions      :  3958
+		num normals        :  3958
+		num tangents       :  0
+		num uvs            :  7916
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1536
+	processing begun of mesh:  obj_cobogo_2
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_3
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_4
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_5
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_6
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_7
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_8
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_9
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_10
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_11
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_12
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_13
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_14
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_15
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_16
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_17
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_18
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_19
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_20
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_21
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_22
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_23
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_24
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_25
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_26
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_27
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_28
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_29
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_30
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_31
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_32
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_33
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_34
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_35
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_36
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_37
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_38
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_39
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_40
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_41
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_cobogo_42
+		mesh is an instance of :  obj_cobogo_1.  Processing halted.
+	processing begun of mesh:  obj_pillar_2
+		processing begun of material:  m_pillar_b
+			processing texture t_pillar_b_n
+				texture type:  bumpTexture, mapped using: "UVMap.light"
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  120
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  obj_pillar_3
+		mesh is an instance of :  obj_pillar_2.  Processing halted.
+	processing begun of mesh:  obj_pillar_4
+		mesh is an instance of :  obj_pillar_2.  Processing halted.
+	processing begun of mesh:  obj_pillar_1
+		processing begun of material:  m_pillar_b
+		registered as also a user of material:  m_pillar_b
+		num positions      :  62
+		num normals        :  62
+		num tangents       :  0
+		num uvs            :  124
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  obj_pillar_5
+		mesh is an instance of :  obj_pillar_1.  Processing halted.
+	processing begun of mesh:  obj_pillar_6
+		mesh is an instance of :  obj_pillar_1.  Processing halted.
+	processing begun of mesh:  obj_pillar_7
+		processing begun of material:  m_pillar_b
+		registered as also a user of material:  m_pillar_b
+		num positions      :  63
+		num normals        :  63
+		num tangents       :  0
+		num uvs            :  126
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  obj_pillar_8
+		mesh is an instance of :  obj_pillar_7.  Processing halted.
+	processing begun of mesh:  obj_pillar_9
+		mesh is an instance of :  obj_pillar_7.  Processing halted.
+	processing begun of mesh:  obj_light_1
+		processing begun of material:  m_light
+		processing begun of material:  m_chrome
+			processing texture t_ledlight
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#6
+		num positions      :  183
+		num normals        :  183
+		num tangents       :  0
+		num uvs            :  366
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  obj_light_2
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_3
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_4
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_5
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_6
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_9
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_10
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_11
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_12
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_13
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_14
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_7
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_8
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_15
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_16
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_17
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_18
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_19
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_20
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_21
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_22
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_23
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_24
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_25
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_26
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_27
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_28
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_29
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_30
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_31
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_32
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_33
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_34
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_35
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_light_36
+		mesh is an instance of :  obj_light_1.  Processing halted.
+	processing begun of mesh:  obj_door_1
+		processing begun of material:  m_wooddoor
+			processing texture t_batdoor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  137
+		num normals        :  137
+		num tangents       :  0
+		num uvs            :  274
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  56
+	processing begun of mesh:  obj_door_2
+		mesh is an instance of :  obj_door_1.  Processing halted.
+	processing begun of mesh:  obj_elevatordoor_1
+		processing begun of material:  m_metal_3
+			processing texture t_dirtymetal
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  59
+		num normals        :  59
+		num tangents       :  0
+		num uvs            :  118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26
+	processing begun of mesh:  obj_elevatordoor_2
+		mesh is an instance of :  obj_elevatordoor_1.  Processing halted.
+	processing begun of mesh:  obj_panel_1
+		processing begun of material:  m_black_painel
+		processing begun of material:  m_red
+		processing begun of material:  m_chrome
+		registered as also a user of material:  m_chrome
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#7
+		num positions      :  179
+		num normals        :  179
+		num tangents       :  0
+		num uvs            :  358
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  126
+	processing begun of mesh:  obj_panel_2
+		mesh is an instance of :  obj_panel_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_1
+		processing begun of material:  m_metal_2
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#8
+		Custom split normals with tangents being used
+		num positions      :  862
+		num normals        :  862
+		num tangents       :  3448
+		num uvs            :  1724
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  513
+	processing begun of mesh:  obj_singledoor_1
+		processing begun of material:  m_metal_b
+		registered as also a user of material:  m_metal_b
+		num positions      :  58
+		num normals        :  58
+		num tangents       :  0
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  obj_bamboo_2
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_3
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_4
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_5
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_6
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_7
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_8
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_9
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_10
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo_11
+		mesh is an instance of :  obj_bamboo_1.  Processing halted.
+	processing begun of mesh:  obj_singledoor_2
+		mesh is an instance of :  obj_singledoor_1.  Processing halted.
+	processing begun of mesh:  obj_singledoor_3
+		mesh is an instance of :  obj_singledoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_13
+		processing begun of material:  m_metal_2
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_metal_2
+		registered as also a user of material:  m_bamboo
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#9
+		Custom split normals with tangents being used
+		num positions      :  1250
+		num normals        :  1250
+		num tangents       :  5000
+		num uvs            :  2500
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  735
+	processing begun of mesh:  obj_bamboodoor_12
+		mesh is an instance of :  obj_bamboodoor_13.  Processing halted.
+	processing begun of mesh:  obj_floor
+		processing begun of material:  m_concrete
+			processing texture t_floor_concrete
+				texture type:  diffuseTexture, mapped using: "UVMap.001"
+		num positions      :  493
+		num normals        :  493
+		num tangents       :  0
+		num uvs            :  986
+		num uvs2           :  986
+		num colors         :  0
+		num triangles      :  221
+	processing begun of mesh:  obj_aud_support_2
+		processing begun of material:  m_wood_deck
+		processing begun of material:  m_metal_2
+			processing texture t_woodfloor_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_woodfloor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_metal_2
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#10
+		num positions      :  88
+		num normals        :  88
+		num tangents       :  0
+		num uvs            :  176
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  obj_roof
+		processing begun of material:  m_wood_deck
+		processing begun of material:  m_metal_2
+		registered as also a user of material:  m_wood_deck
+		registered as also a user of material:  m_metal_2
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#11
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  obj_rail
+		processing begun of material:  m_metal_b
+		registered as also a user of material:  m_metal_b
+		num positions      :  881
+		num normals        :  881
+		num tangents       :  0
+		num uvs            :  1762
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  404
+	processing begun of mesh:  obj_wall_brick
+		processing begun of material:  m_brick
+			processing texture t_brick_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_brick_b
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  291
+		num normals        :  291
+		num tangents       :  1164
+		num uvs            :  582
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  123
+	processing begun of mesh:  obj_aud_support_4
+		mesh is an instance of :  obj_aud_support_2.  Processing halted.
+	processing begun of mesh:  obj_aud_support_3
+		mesh is an instance of :  obj_aud_support_2.  Processing halted.
+	processing begun of mesh:  obj_aud_support_1
+		mesh is an instance of :  obj_aud_support_2.  Processing halted.
+	processing begun of mesh:  obj_floorgrass
+		processing begun of material:  m_grass_transition
+			processing texture t_grass_bak
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  12
+		num normals        :  12
+		num tangents       :  0
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  obj_wall_paint
+		processing begun of material:  m_paintwhite
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  416
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  46
+	processing begun of mesh:  obj_floordeck
+		processing begun of material:  m_floor
+			processing texture t_deck_atlas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  134
+		num normals        :  134
+		num tangents       :  0
+		num uvs            :  268
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  53
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  obj_careca_moldura
+		processing begun of material:  m_artred
+			processing texture t_artcarecared
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  672
+		num normals        :  672
+		num tangents       :  0
+		num uvs            :  1344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  304
+	processing begun of mesh:  obj_carecaobjesanato
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+			processing texture t_artpalm
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#12
+		num positions      :  694
+		num normals        :  694
+		num tangents       :  0
+		num uvs            :  1388
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  284
+	processing begun of mesh:  obj_carecafrutas
+		processing begun of material:  m_artground
+		processing begun of material:  m_side
+			processing texture t_artcarecaground
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#13
+		num positions      :  816
+		num normals        :  816
+		num tangents       :  0
+		num uvs            :  1632
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  404
+	processing begun of mesh:  obj_carecaarvore
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#14
+		num positions      :  10915
+		num normals        :  10915
+		num tangents       :  0
+		num uvs            :  21830
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4504
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  obj_carecacaju
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#15
+		num positions      :  3307
+		num normals        :  3307
+		num tangents       :  0
+		num uvs            :  6614
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1376
+	processing begun of mesh:  obj_coqueiro
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#16
+		num positions      :  2352
+		num normals        :  2352
+		num tangents       :  0
+		num uvs            :  4704
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1172
+	processing begun of mesh:  art_palms
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#17
+		num positions      :  2652
+		num normals        :  2652
+		num tangents       :  0
+		num uvs            :  5304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1328
+	processing begun of mesh:  art_palm2
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#18
+		num positions      :  3265
+		num normals        :  3265
+		num tangents       :  0
+		num uvs            :  6530
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1332
+	processing begun of mesh:  art_flower
+		processing begun of material:  m_art_2
+		processing begun of material:  m_side
+		registered as also a user of material:  m_art_2
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#19
+		num positions      :  7065
+		num normals        :  7065
+		num tangents       :  0
+		num uvs            :  14130
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2904
+	processing begun of mesh:  art_palm3
+		processing begun of material:  m_art_3
+		processing begun of material:  m_side
+			processing texture t_artpalm
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#20
+		num positions      :  5136
+		num normals        :  5136
+		num tangents       :  0
+		num uvs            :  10272
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2592
+	processing begun of mesh:  art_earth
+		processing begun of material:  m_artground
+		processing begun of material:  m_side
+		registered as also a user of material:  m_artground
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#21
+		num positions      :  268
+		num normals        :  268
+		num tangents       :  0
+		num uvs            :  536
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  art_grass
+		processing begun of material:  m_artground
+		processing begun of material:  m_side
+		registered as also a user of material:  m_artground
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#22
+		num positions      :  582
+		num normals        :  582
+		num tangents       :  0
+		num uvs            :  1164
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  244
+	processing begun of mesh:  art_grass2
+		processing begun of material:  m_artground
+		processing begun of material:  m_side
+		registered as also a user of material:  m_artground
+		registered as also a user of material:  m_side
+		processing begun of multimaterial:  recursos_vegetais.Multimaterial#23
+		num positions      :  950
+		num normals        :  950
+		num tangents       :  0
+		num uvs            :  1900
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  388
+	processing begun of mesh:  obj_carecagrade
+		processing begun of material:  m_metal_2
+		registered as also a user of material:  m_metal_2
+		num positions      :  1506
+		num normals        :  1506
+		num tangents       :  0
+		num uvs            :  3012
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  702
+	processing begun of mesh:  obj_carecabackground
+		processing begun of material:  m_artback
+			processing texture t_artcarecaback
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_careca_assinatura
+		processing begun of material:  m_assinatura
+			processing texture t_artcarecaass
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_panel_1
+		processing begun of material:  m_panelleft1x1
+			processing texture t_square1x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_square1x1
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_panel_3
+		processing begun of material:  m_panelright1x1
+			processing texture t_square1x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_square1x1
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_expo_1
+		processing begun of material:  m_expo_1
+			processing texture t_16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_16x9
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_expo_2
+		processing begun of material:  m_expo_2
+			processing texture t_16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_16x9
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_expo_3
+		processing begun of material:  m_expo_3
+			processing texture t_16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_16x9
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_expo_4
+		processing begun of material:  m_expo_4
+			processing texture t_16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_16x9
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_banner_1
+		processing begun of material:  m_banner
+			processing texture t_banner6x1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_banner6x1
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_sign_1
+		processing begun of material:  m_panel
+			processing texture t_placas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_placas
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_sign_2
+		processing begun of material:  m_panel
+		registered as also a user of material:  m_panel
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_sign_3
+		processing begun of material:  m_panel
+		registered as also a user of material:  m_panel
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_panel_2
+		processing begun of material:  m_show
+			processing texture t_videostand16x9
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_videostand16x9
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_totem_1
+		processing begun of material:  m_totem1x2
+			processing texture t_1x2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_1x2
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_totem_2
+		processing begun of material:  m_totem1x2
+		registered as also a user of material:  m_totem1x2
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_totem_3
+		processing begun of material:  m_totem1x2
+		registered as also a user of material:  m_totem1x2
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_totem_4
+		processing begun of material:  m_totem1x2
+		registered as also a user of material:  m_totem1x2
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_shader
+		WARNING: No materials have been assigned: 
+		num positions      :  278
+		num normals        :  278
+		num tangents       :  0
+		num uvs            :  556
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+	processing begun of mesh:  col_floor_all
+		processing begun of material:  m_collisionfloor
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  46
+	processing begun of mesh:  col_wall_all
+		processing begun of material:  m_collisionwall
+		num positions      :  92
+		num normals        :  92
+		num tangents       :  0
+		num uvs            :  184
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  56
+	processing begun of mesh:  col_trg_auditorium
+		processing begun of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_trg_expo
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_trg_totem
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_auditorium
+		processing begun of material:  m_btn_aud
+			processing texture t_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_auditoriumout
+		processing begun of material:  m_btn_lounge
+			processing texture t_lounge
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_lounge
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_tel_start
+		processing begun of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_auditoriumout
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_auditorium
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_expo
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  btn_arrow_1
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_2
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_3
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_4
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_5
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_6
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_7
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_8
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_arrow_9
+		WARNING: No materials have been assigned: 
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+========= Writing of JSON file started =========
+	writing mesh:  obj_cube
+	writing mesh:  obj_railing_1
+	writing mesh:  obj_baseexpo
+	writing mesh:  obj_totem_1
+	writing mesh:  obj_umbrella_1
+	writing mesh:  obj_umbrella_base_1
+	writing mesh:  obj_table_1
+	writing mesh:  obj_chair_m_1
+	writing mesh:  obj_chaise_1
+	writing mesh:  obj_mattress_1
+	writing mesh:  obj_cushion_1
+	writing mesh:  obj_cushion_2
+	writing mesh:  obj_bar
+	writing mesh:  obj_cup_1
+	writing mesh:  obj_star_1
+	writing mesh:  obj_supportbar
+	writing mesh:  obj_lamp_1
+	writing mesh:  obj_tree
+	writing mesh:  obj_leaf_1
+	writing mesh:  obj_cashew_1
+	writing mesh:  obj_leaf_c_1
+	writing mesh:  obj_leaf_c_2
+	writing mesh:  obj_leaf_c_4
+	writing mesh:  obj_leaf_c_5
+	writing mesh:  obj_leaf_c_6
+	writing mesh:  obj_leaf_c_11
+	writing mesh:  obj_leaf_c_16
+	writing mesh:  obj_leaf_c_18
+	writing mesh:  obj_leaf_c_03
+	writing mesh:  obj_trunk_1
+	writing mesh:  obj_chair_1
+	writing mesh:  obj_stage
+	writing mesh:  obj_spotlight_1
+	writing mesh:  obj_spotlight_4
+	writing mesh:  obj_cobogo_1
+	writing mesh:  obj_pillar_2
+	writing mesh:  obj_pillar_1
+	writing mesh:  obj_pillar_7
+	writing mesh:  obj_light_1
+	writing mesh:  obj_door_1
+	writing mesh:  obj_elevatordoor_1
+	writing mesh:  obj_panel_1
+	writing mesh:  obj_bamboo_1
+	writing mesh:  obj_singledoor_1
+	writing mesh:  obj_bamboodoor_13
+	writing mesh:  obj_floor
+	writing mesh:  obj_aud_support_2
+	writing mesh:  obj_roof
+	writing mesh:  obj_rail
+	writing mesh:  obj_wall_brick
+	writing mesh:  obj_floorgrass
+	writing mesh:  obj_wall_paint
+	writing mesh:  obj_floordeck
+	writing mesh:  obj_careca_moldura
+	writing mesh:  obj_carecaobjesanato
+	writing mesh:  obj_carecafrutas
+	writing mesh:  obj_carecaarvore
+	writing mesh:  obj_carecacaju
+	writing mesh:  obj_coqueiro
+	writing mesh:  art_palms
+	writing mesh:  art_palm2
+	writing mesh:  art_flower
+	writing mesh:  art_palm3
+	writing mesh:  art_earth
+	writing mesh:  art_grass
+	writing mesh:  art_grass2
+	writing mesh:  obj_carecagrade
+	writing mesh:  obj_carecabackground
+	writing mesh:  obj_careca_assinatura
+	writing mesh:  art_panel_1
+	writing mesh:  art_panel_3
+	writing mesh:  art_expo_1
+	writing mesh:  art_expo_2
+	writing mesh:  art_expo_3
+	writing mesh:  art_expo_4
+	writing mesh:  art_banner_1
+	writing mesh:  obj_sign_1
+	writing mesh:  obj_sign_2
+	writing mesh:  obj_sign_3
+	writing mesh:  art_panel_2
+	writing mesh:  art_totem_1
+	writing mesh:  art_totem_2
+	writing mesh:  art_totem_3
+	writing mesh:  art_totem_4
+	writing mesh:  obj_shader
+	writing mesh:  col_floor_all
+	writing mesh:  col_wall_all
+	writing mesh:  col_trg_auditorium
+	writing mesh:  col_trg_expo
+	writing mesh:  col_trg_totem
+	writing mesh:  btn_auditorium
+	writing mesh:  btn_auditoriumout
+	writing mesh:  col_tel_start
+	writing mesh:  col_tel_auditoriumout
+	writing mesh:  col_tel_auditorium
+	writing mesh:  col_tel_expo
+	writing mesh:  btn_arrow_1
+	writing mesh:  btn_arrow_2
+	writing mesh:  btn_arrow_3
+	writing mesh:  btn_arrow_4
+	writing mesh:  btn_arrow_5
+	writing mesh:  btn_arrow_6
+	writing mesh:  btn_arrow_7
+	writing mesh:  btn_arrow_8
+	writing mesh:  btn_arrow_9
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.8967 secs
