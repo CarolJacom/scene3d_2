@@ -51,7 +51,7 @@ function createFreeCamera(scene) {
   camera.keysRight.push('D'.charCodeAt(0));
 
   camera.position = new BABYLON.Vector3(6.5, 1.7, -22);
-  camera.rotation = new BABYLON.Vector3( 0, -0.44, 0);
+  camera.rotation = new BABYLON.Vector3( 0, -0.7, 0);
   
   return camera;
 }
